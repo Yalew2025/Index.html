@@ -1,2 +1,2 @@
 # Index.html
-This repository is a web developed using HTML and VS code using python programming language.
+This repository about a web developed using HTML and VS code with python programming language.
