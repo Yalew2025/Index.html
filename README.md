@@ -1,6 +1,6 @@
-# Index.html
-This repository about a web developed using HTML and VS code with python programming language.
 
+
+# This is a simple HTML5 document demonstrating semantic structure, accessibility, and SEO principles.
 
 <!DOCTYPE html> <!-- Step 1: Declare HTML5 document type -->
 <html lang="en"> <!-- Step 2: Set language for accessibility and SEO -->
